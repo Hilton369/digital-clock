@@ -1,6 +1,6 @@
 # Practice Digital Clock WebApp
 
-This is a To Do List app which uses React. It is able to add/delete/move to do list items.
+This is a Digital Clock app which uses React.
 
 ### Prerequisites
 
